@@ -19,5 +19,12 @@
     "password": "info",
     "expiresAt": "2025-9-9",
     "allowOffline": false
+  },
+  {
+    "id": "ed87cfd0eac71f0e",
+    "username": "modz",
+    "password": "josh",
+    "expiresAt": "2025-9-7",
+    "allowOffline": false
   }
 ]
