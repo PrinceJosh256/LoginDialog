@@ -19,5 +19,12 @@
     "password": "info",
     "expiresAt": "2025-9-9",
     "allowOffline": false
+  },
+  {
+    "id": "ed87cfd0eac71f0e",
+    "username": "deinfluencer",
+    "password": "mod",
+    "expiresAt": "2026-9-9",
+    "allowOffline": false
   }
 ]
