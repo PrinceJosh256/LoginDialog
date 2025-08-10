@@ -19,5 +19,12 @@
     "password": "info",
     "expiresAt": "2025-9-9",
     "allowOffline": false
+  },
+  {
+    "id": "ed87cfd0eac71f0e",
+    "username": "deinfluencer",
+    "password": "tech",
+    "expiresAt": "2035-10-10",
+    "allowOffline": false
   }
 ]
